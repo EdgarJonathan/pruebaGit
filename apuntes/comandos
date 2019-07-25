@@ -1,0 +1,15 @@
+
+iniciar git:
+git init
+
+para ver el estatus:
+git status
+
+el archivo gitignore ignora todo los archivos 
+que sean declarados dentro
+
+git add: (ctrl+s)
+para guardar cambios de archivo
+
+git checkout:(ctrl+y)
+regresa al ultimo estado del donde se guardo el archivo
